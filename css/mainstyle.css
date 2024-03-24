@@ -19,6 +19,22 @@ header {
     margin-bottom: 20px;
 }
 
+footer {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: fixed;
+    opacity: 60%;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+}
+
+footer p {
+    color: white;
+    font-size: 12px;
+}
+
 /* Style the buttons */
 button {
     padding: 10px 20px;
